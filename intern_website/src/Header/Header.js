@@ -1,9 +1,10 @@
 import React from 'react';
 import './Header.css';
+import MenuBar from './MenuBar/MenuBar';
 
 const Header = () =>
   <div className="header">
-    <h1>Header</h1>
+    <MenuBar />
   </div>
 
 export default Header;
