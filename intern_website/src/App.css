@@ -1,4 +1,9 @@
 .app {
   font-family: 'Space Mono', monospace;
   text-align: center;
+  display: grid;
+  grid-rows: 3;
+  width: 100vw;
+  height:auto;
+  justify-content: space-around;
 }
