@@ -1,3 +1,11 @@
 .main {
-  
+  display: grid;
+  grid-rows: 4;
+  width: 100vw;
+  height: auto;
+}
+
+.main h3 {
+  font-family: 'Space Mono', monospace;
+  color: rgba(0, 0, 0, 1);
 }
