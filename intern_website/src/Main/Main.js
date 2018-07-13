@@ -7,12 +7,12 @@ const lorem_ipsum = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
 
 const Main = () =>
   <div className="main">
-    <Section title="IT Paths" text={lorem_ipsum}/>
+    <Section title="About" text={lorem_ipsum}/>
     <Divider filename={"/div_1.png"}/>
+    <Section title="IT Paths" text={lorem_ipsum}/>
+    <Divider filename={"/div_3.png"}/>
     <Section title="Past Interns" text={lorem_ipsum}/>
     <Divider filename={"/div_2.png"}/>
-    <Section title="Location" text={lorem_ipsum}/>
-    <Divider filename={"/div_3.png"}/>
   </div>
 
 export default Main;
