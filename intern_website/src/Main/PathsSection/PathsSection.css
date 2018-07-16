@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1000px) {
+  .pathsSection {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: grid;
+    grid-gap: 30px;
+    grid-template-rows: repeat(5, 500px);
+    justify-content: center;
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .pathsSection {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: repeat(3, 300px);
+    justify-content: center;
+    width: 100%;
+    height: auto;
+  }
+}
