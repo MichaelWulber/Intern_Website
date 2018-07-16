@@ -2,7 +2,11 @@
   display: grid;
   justify-content: space-around;
   grid-rows: 2;
-  background-image: url("/header_background.png");
+  background: url("/campus.png") no-repeat center center fixed;;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   width: 100%;
   height: auto;
   padding-bottom: 3%;

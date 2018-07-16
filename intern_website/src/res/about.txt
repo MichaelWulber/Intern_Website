@@ -1,0 +1,79 @@
+COMPANY DESCRIPTION
+
+Florida Blue Foundation is a trade name of the Blue Cross and Blue Shield of Florida Foundation, Inc., and is a separate philanthropic affiliate of Florida Blue, Florida’s Blue Cross and Blue Shield company. Founded in 2001, the mission of the Foundation is to help people and communities achieve better health. The Foundation strategically allocates grants toward philanthropic, community-based solutions through its focus areas and programs that focus on health solutions in the health care system, multicultural and growing populations, and critical issues of affordability, access and quality. Florida Blue Foundation does not make grants or charitable contributions to organizations that discriminate in their provision of goods and services based on race, color, religion, national origin, disability, sex, age, gender identity or expression, sexual orientation, veteran status or marital status.
+
+
+
+JOB DESCRIPTION
+
+Seeking IT interns for Florida Blue s Internship. The program will be located at Florida Blue s Deerwood Campus. This program is focused on providing interns exposure to Florida Blue s business processes and the IT systems that support it. During their time here, they will have the opportunity to learn about our IT Command Center, World Class Data Center, Information Security, Data Analytics, Software Development teams and their practices, and the Innovation Departments. During the program, they will get exposure to Senior IT Leadership and will have the opportunity to present their internship project outcomes at the end of the program. Candidates have the opportunity to choose from one of the 5 internship tracks:
+
+
+
+Infrastructure
+
+Interns for this program will be focused on monitoring, installation, configuration, debugging, administration, troubleshooting and maintenance of technology solutions. To be successful in this role, they would need to demonstrated proficiency and experience in design, implementation, monitoring and/or troubleshooting technology.
+
+
+
+Front End Design, Development, and Innovation
+
+Interns for this program will be focused on creating new innovative designs and front-end prototypes for Florida Blue. They will need to leverage their skills learned through college courses, personal experiences, and creative outlets to design solutions that brings value to the business. To be successful in this role, you need to be fast, creative, team oriented, and up-to-date on current technology trends.
+
+
+
+Data Analytics
+
+Interns for this program will be focused on data analytics, business Intelligence and data quality assessment for Florida Blue. They will need to leverage their skills learned through college courses, personal experiences, and creative outlets to design solutions that brings value to the business. To be successful in this role, you need to be fast, creative, team oriented, and up-to-date on current technology trends.
+
+
+
+Security
+
+Interns for this program will be focused on activities that ensure all users in the organization have the appropriate levels of access to applications, systems and data resources. Evaluates and maintains procedures to safeguard information systems assets from intentional or inadvertent access or destruction. Recommends and implements changes to enhance security controls and prevent unauthorized access. Proactively and automatically correlates and analyzes threat data from various sources and analyzes network events to establish the identity and modus operandi of malicious users active in the computing environment or posing potential threats to the computing environment. Perform remedial actions as a result of threat and vulnerability assessments or audits. With supervision perform configuration management of security systems and applications, including policy assessment and compliance tools, network security and host-based security systems.
+
+
+
+Application Development
+
+Interns for this program will be focused on development of new applications with basic programming knowledge of JavaScript/HTML/CSS or other Object Oriented programming experience, excellent written/ verbal communication skills used in development of application and requirements gathering process. They will need to leverage their skills learned through college courses, personal experiences, and creative outlets to design solutions that brings value to the business. To be successful in this role, you need to be fast, creative, team oriented, and up-to-date on current technology trends.
+
+
+
+Job Requirements:
+
+
+
+
+
+Currently enrolled in a computer science, information technology, mathematics, or related degree program as a Junior, Senior or Graduate student at an accredited college/university in May 2018.
+
+
+
+Cumulative GPA of 3. 0 or better
+
+
+
+Must be able to commit to working at least 30 hours a week
+
+Basic PC skills required including working knowledge of Microsoft Office products (Word, Excel, PowerPoint, Outlook)
+
+Basic programming knowledge, JavaScript/HTML/CSS or other Object Oriented programming experience
+
+Excellent written and verbal communication skills; team and collaboration oriented
+
+Work under minimal supervision and adapt to a dynamic, changing environment
+
+
+
+Must be a creative and innovative thinker
+
+We comply with applicable Federal civil rights laws and do not discriminate.
+
+You may access the Non-Discrimination and Accessibility Notice here.
+
+Language Assistance Available:
+
+Español, Kreyol Ayisien, Tiếng Việt, Português, 中文, français, Tagalog, русский, italiano, Deutsche, 한국어, Polskie, Gujarati, ไทย, العربية, 日本語, فارسی
+
+Florida Blue is a trade name of Blue Cross and Blue Shield of Florida, Inc.  Blue Cross and Blue Shield of Florida, Inc., and its subsidiary and affiliate companies are not responsible for errors or omissions in this e-mail message. Any personal comments made in this e-mail do not reflect the views of Blue Cross and Blue Shield of Florida, Inc.  The information contained in this document may be confidential and intended solely for the use of the individual or entity to whom it is addressed.  This document may contain material that is privileged or protected from disclosure under applicable law.  If you are not the intended recipient or the individual responsible for delivering to the intended recipient, please (1) be advised that any use, dissemination, forwarding, or copying of this document IS STRICTLY PROHIBITED; and (2) notify sender immediately by telephone and destroy the document. THANK YOU.
