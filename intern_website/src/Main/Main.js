@@ -9,11 +9,11 @@ const about_text = "Seeking IT interns for Florida Blue's Internship. The progra
 const IT_paths = lorem_ipsum;
 const past_interns = lorem_ipsum;
 
-const Main = () =>
+const Main = (props) =>
   <div className="main">
     <Section title="About" text={about_text}/>
     {/*<Divider filename={"/div_1.png"}/>*/}
-    <PathsSection />
+    <PathsSection paths={props.paths}/>
     {/*<Divider filename={"/div_3.png"}/>*/}
     <Section title="Past Interns" text={lorem_ipsum}/>
     {/*Divider filename={"/div_2.png"}/>*/}
