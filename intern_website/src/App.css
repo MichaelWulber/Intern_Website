@@ -2,9 +2,9 @@
   font-family: 'Space Mono', monospace;
   text-align: center;
   display: grid;
-  grid-rows: 3;
+  grid-row: 2;
   width: 100%;
-  height:auto;
+  height: auto;
   justify-content: space-around;
   background-color: rgba(235, 235, 235, 1);
 }

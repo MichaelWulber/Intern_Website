@@ -11,7 +11,6 @@ class App extends Component {
       <div className="app">
         <Header />
         <Main paths={IT_PATHS}/>
-        <Footer />
       </div>
     );
   }
