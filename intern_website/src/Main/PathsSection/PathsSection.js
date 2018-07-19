@@ -11,10 +11,12 @@ class PathsSection extends Component {
 
   renderPaths = () => {
     return this.state.paths.map(item =>
-      <Path
-        title={item.title}
-        type={item.cssClass}
-      />
+      <div key={item.title}>
+        <Path
+          title={item.title}
+          type={item.cssClass}
+        />
+      </div>
     );
   }
 
