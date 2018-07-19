@@ -3,18 +3,14 @@ import './App.css';
 import Header from './Header/Header.js';
 import Main from './Main/Main.js';
 import Footer from './Footer/Footer.js';
-import IT_Paths from './Config/PathConfig';
+import IT_PATHS from './Config/PathConfig';
 
 class App extends Component {
-  state = {
-    paths: IT_Paths,
-  };
-
   render() {
     return (
       <div className="app">
         <Header />
-        <Main paths={this.state.paths}/>
+        <Main paths={IT_PATHS}/>
         <Footer />
       </div>
     );

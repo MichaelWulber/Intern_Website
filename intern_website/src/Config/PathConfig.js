@@ -1,29 +1,29 @@
-const IT_Paths = [
+const IT_PATHS = [
   {
     title: 'Infrastructure',
     description: '...',
-    css_class: 'path_1',
+    cssClass: 'path_1',
   },
   {
     title: 'Innovation',
     description: '...',
-    css_class: 'path_2',
+    cssClass: 'path_2',
   },
   {
     title: 'Data Analytics',
     description: '...',
-    css_class: 'path_3',
+    cssClass: 'path_3',
   },
   {
     title: 'Security',
     description: '...',
-    css_class: 'path_4',
+    cssClass: 'path_4',
   },
   {
     title: 'Application Development',
     description: '...',
-    css_class: 'path_5',
+    cssClass: 'path_5',
   },
 ]
 
-export default IT_Paths;
+export default IT_PATHS;

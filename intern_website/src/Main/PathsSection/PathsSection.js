@@ -3,15 +3,17 @@ import './PathsSection.css';
 import Path from './Path';
 
 class PathsSection extends Component {
-  state = {
-    paths: this.props.paths,
-  };
+  constructor(props) {
+    super(props);
+    this.state = { paths: this.props.paths };
+  }
+  
 
   renderPaths = () => {
     return this.state.paths.map(item =>
       <Path
         title={item.title}
-        type={item.css_class}
+        type={item.cssClass}
       />
     );
   }
