@@ -7,7 +7,7 @@ class PathsSection extends Component {
     super(props);
     this.state = { paths: this.props.paths };
   }
-  
+
 
   renderPaths = () => {
     return this.state.paths.map(item =>
@@ -15,13 +15,10 @@ class PathsSection extends Component {
         <Path
           title={item.title}
           type={item.cssClass}
+          description={item.description}
         />
       </div>
     );
-  }
-
-  doThing = () => {
-    return('thing');
   }
 
   render() {

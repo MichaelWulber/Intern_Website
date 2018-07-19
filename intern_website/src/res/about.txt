@@ -36,7 +36,7 @@ Interns for this program will be focused on activities that ensure all users in 
 
 Application Development
 
-Interns for this program will be focused on development of new applications with basic programming knowledge of JavaScript/HTML/CSS or other Object Oriented programming experience, excellent written/ verbal communication skills used in development of application and requirements gathering process. They will need to leverage their skills learned through college courses, personal experiences, and creative outlets to design solutions that brings value to the business. To be successful in this role, you need to be fast, creative, team oriented, and up-to-date on current technology trends.
+Interns for this program will be focused on development of new applications with basic programming knowledge of JavaScript / HTML / CSS or other Object Oriented programming experience, excellent written/ verbal communication skills used in development of application and requirements gathering process. They will need to leverage their skills learned through college courses, personal experiences, and creative outlets to design solutions that brings value to the business. To be successful in this role, you need to be fast, creative, team oriented, and up-to-date on current technology trends.
 
 
 
