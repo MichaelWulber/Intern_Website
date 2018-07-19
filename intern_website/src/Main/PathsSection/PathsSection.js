@@ -25,7 +25,6 @@ class PathsSection extends Component {
   }
 
   render() {
-    console.log(this.state.paths);
     return (
       <div className="pathsSection">
         {this.renderPaths()}
