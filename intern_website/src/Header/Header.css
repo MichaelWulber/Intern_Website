@@ -20,6 +20,5 @@
 
 .header h3:hover {
   color: rgba(150, 150, 200, 0.95);
-  text-decoration: underline;
   cursor: pointer;
 }
