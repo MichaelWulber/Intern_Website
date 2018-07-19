@@ -12,12 +12,9 @@ class PathsSection extends Component {
       <Path
         title={item.title}
         type={item.css_class}
+        description={item.description}
       />
     );
-  }
-
-  doThing = () => {
-    return('thing');
   }
 
   render() {
