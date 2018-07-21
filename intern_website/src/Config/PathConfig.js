@@ -20,7 +20,7 @@ const IT_PATHS = [
     cssClass: 'path_4',
   },
   {
-    title: 'Application Development',
+    title: 'App Development',
     description: 'Interns for this program will be focused on development of new applications with basic programming knowledge of JavaScript, HTML, CSS, or other OOP experience, excellent written and verbal communication skills used in development of application and requirements gathering process.',
     cssClass: 'path_5',
   },
