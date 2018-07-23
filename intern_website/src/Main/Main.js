@@ -3,6 +3,7 @@ import './Main.css';
 import Section from './Section/Section';
 import PathsSection from './PathsSection/PathsSection';
 import Footer from './Footer/Footer';
+import Gallery from './Gallery/Gallery';
 
 const loremIpsum = "[ Here we would love to showcase some of the intern experiences, " +
                     "what tools they've learned, some projects they have worked on and their favorite aspects of the internship program ]";
@@ -18,6 +19,7 @@ const Main = (props) =>
     <Section title="About" text={aboutText}/>
     <PathsSection paths={props.paths}/>
     <Section title="Past Interns" text={loremIpsum}/>
+    <Gallery />
     <Footer />
   </div>
 
