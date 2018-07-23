@@ -8,12 +8,17 @@ class GalleryManager extends Component {
         this.state = { };
     }
 
-    
+    nextPicure = () => {
+        console.log("hello")
+    }
     render() { 
 
         return (
             <div className="gallery-container">
-                <img src="campus.png" alt="campus"></img>
+                <img 
+                src="campus.png" 
+                alt="campus"
+                onClick={this.nextPicure.bind(this)}></img>
             </div>
          );
     }
