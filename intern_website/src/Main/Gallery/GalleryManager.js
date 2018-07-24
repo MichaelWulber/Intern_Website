@@ -16,7 +16,7 @@ class GalleryManager extends Component {
         return (
             <div className="gallery-container">
                 <img 
-                src="campus.png" 
+                src="dining.jpg" 
                 alt="campus"
                 onClick={this.nextPicure.bind(this)}></img>
             </div>
