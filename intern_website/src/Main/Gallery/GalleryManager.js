@@ -14,11 +14,13 @@ class GalleryManager extends Component {
     render() { 
 
         return (
-            <div className="gallery-container">
+            <div className={"gallery-container"}>
+                <a className="next">&#10094;</a>
                 <img 
                 src="dining.jpg" 
                 alt="campus"
                 onClick={this.nextPicure.bind(this)}></img>
+                <a className="prev">&#10095;</a>
             </div>
          );
     }

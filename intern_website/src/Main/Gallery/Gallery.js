@@ -4,7 +4,7 @@ import GalleryManager from './GalleryManager';
 
 const Gallery = () => {
     return ( 
-        <div className={"gallery-section"}>
+        <div className="gallery-section">
             <h2>Gallery</h2>
             <GalleryManager />
         </div>
