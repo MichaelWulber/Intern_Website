@@ -16,7 +16,6 @@
         color: white;
         font-weight: bold;
         font-size: 20px;
-        border-radius: 0 5px 5px 0;
         user-select: none;
         -webkit-user-select: none;
         background-color: rgba(0, 0, 0, 0.8);
@@ -24,7 +23,6 @@
 
     .next {
         bottom: 100px;
-        border-radius: 5px 0 0 5px;
         left: 10px;
     }
 
@@ -42,20 +40,18 @@
         color: white;
         font-weight: bold;
         font-size: 30px;
-        border-radius: 0 5px 5px 0;
         user-select: none;
         -webkit-user-select: none;
         background-color: rgba(0, 0, 0, 0.8);
     }
 
     .next {
-        left: 15px;
+        left: 16px;
         bottom: 200px;
-        border-radius: 5px 0 0 5px;
     }
 
     .prev {
-        right: 15px;
+        right: 16px;
         bottom: 200px;
     }
 }
